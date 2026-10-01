@@ -1,0 +1,23 @@
+export const Departamentos = {
+    Departamentos: {
+      '1': 'Montevideo',
+      '2': 'Canelones',
+      '3': 'Maldonado',
+      '4': 'Rocha',
+      '5': 'Treinta y Tres',
+      '6': 'Cerro Largo',
+      '7': 'Rivera',
+      '8': 'Artigas',
+      '9': 'Salto',
+      '10': 'Paysandú',
+      '11': 'Río Negro',
+      '12': 'Soriano',
+      '13': 'Colonia',
+      '14': 'San José',
+      '15': 'Flores',
+      '16': 'Florida',
+      '17': 'Lavalleja',
+      '18': 'Durazno',
+      '19': 'Tacuarembó',
+    },
+  };
